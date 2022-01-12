@@ -14,7 +14,7 @@ To start the app:
 
 > cd shopify_crud
 
-> python3 -m venv
+> python3 -m venv env
 
 > souce env/bin/activate
 
