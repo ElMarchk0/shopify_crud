@@ -24,4 +24,4 @@ To start the app:
 
 Goto http://localhost:8000/api
 
-To view an induvidual product go to https://localhost:8000/api/{paste id here}
+To view an induvidual product go to https://localhost:8000/api/ {paste id here}
