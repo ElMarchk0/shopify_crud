@@ -16,7 +16,13 @@ To start the app:
 
 > python3 -m venv env
 
+On Mac/Linux:
+
 > souce env/bin/activate
+
+On Windows:
+
+> source env/scripts/activate
 
 > pip install -r requirements.txt
 
