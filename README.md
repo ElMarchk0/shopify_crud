@@ -6,6 +6,7 @@ This app is designed to allow a user to input and sort products within a databas
 
 To start the app:
 
+On Mac/Linux:
 > python3 -m pip install --upgrade pip
 
 > pip3 install virtualenv
@@ -16,11 +17,22 @@ To start the app:
 
 > python3 -m venv env
 
-On Mac/Linux:
-
 > souce env/bin/activate
 
+> pip install -r requirements.txt
+
+> python manage.py runserver
+
 On Windows:
+> python3 -m pip install --upgrade pip
+
+> pip3 install virtualenv
+
+> git clone https://github.com/ElMarchk0/shopify_crud.git
+
+> cd shopify_crud
+
+> python3 -m venv env
 
 > source env/scripts/activate
 
