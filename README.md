@@ -17,7 +17,7 @@ On Mac/Linux:
 
 > python3 -m venv env
 
-> souce env/bin/activate
+> source env/bin/activate
 
 > pip install -r requirements.txt
 
