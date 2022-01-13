@@ -23,6 +23,8 @@ On Mac/Linux:
 
 > python manage.py runserver
 
+Goto http://localhost:8000/api
+
 On Windows:
 > python3 -m pip install --upgrade pip
 
