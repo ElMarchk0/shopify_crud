@@ -28,11 +28,8 @@ git clone https://github.com/ElMarchk0/shopify_crud.git
 cd shopify_crud
 python3 -m venv env
 source env/scripts/activate
+python manage.py runserver
 ```
-
-> pip install -r requirements.txt
-
-> python manage.py runserver
 
 Goto http://localhost:8000/api
 
